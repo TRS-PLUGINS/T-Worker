@@ -1,0 +1,9 @@
+name: TRSWorker
+author: TRS
+main: TRS\TRSWorker
+version: B2
+api: 
+- 1.0.0
+- 1.1.0
+- 2.0.0
+
