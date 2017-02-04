@@ -1,0 +1,17 @@
+name: TRSWorker
+author: TRS
+main: TRS\TRSWorker
+version: B2
+api: 
+- 1.0.0
+- 1.1.0
+- 2.0.0
+
+commands:
+ 플러그인정보:
+  permission: TRS.command.use
+  description: T-Worker 플러그인 정보를 볼 수 있습니다.
+  
+permissions:
+ TRS.command.use:
+  default: true
